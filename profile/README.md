@@ -2,7 +2,8 @@ Hey there! This organization contains projects for my courses at Georgia Tech's 
 
 # Current Course
 
-I'm off fof the Summer semester :)
+* [CS 6250 - Computer Networks](https://omscs.gatech.edu/cs-6250-computer-networks)
+* [CS 6457 - Video Game Design](https://omscs.gatech.edu/cs-6457-video-game-design)
 
 # Previous Courses
 
