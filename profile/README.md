@@ -2,7 +2,7 @@ Hey there! This organization contains projects for my courses at Georgia Tech's 
 
 # Current Courses
 
-* Summer 2024: None! Taking the summer off.
+* Fall 2024: [CS 6290 - High Performance Computer Architecture](https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)
   
 # Previous Courses
 
